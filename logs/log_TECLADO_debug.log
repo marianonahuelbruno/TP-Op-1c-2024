@@ -1,0 +1,147 @@
+[DEBUG] 20:19:59:078 log_debug_IO/(17548:17548): IP KERNEL: 127.0.0.1
+[DEBUG] 20:19:59:079 log_debug_IO/(17548:17548): PUERTO KERNEL: 8003
+[DEBUG] 20:19:59:079 log_debug_IO/(17548:17548): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:19:59:080 log_debug_IO/(17548:17548): PUERTO MEMORIA: 8002
+[INFO] 20:19:59:111 log_debug_IO/(17548:17548): Handshake enviado: KERNEL
+[DEBUG] 20:19:59:144 log_debug_IO/(17548:17548): Se confirma a kernel la creacion de la IO
+[INFO] 20:19:59:150 log_debug_IO/(17548:17548): Handshake enviado: MEMORIA
+[INFO] 20:19:59:231 log_debug_IO/(17548:17554): CONEXION CON MEMORIA OK
+[DEBUG] 20:25:27:628 log_debug_IO/(18520:18520): IP KERNEL: 127.0.0.1
+[DEBUG] 20:25:27:628 log_debug_IO/(18520:18520): PUERTO KERNEL: 8003
+[DEBUG] 20:25:27:629 log_debug_IO/(18520:18520): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:25:27:629 log_debug_IO/(18520:18520): PUERTO MEMORIA: 8002
+[INFO] 20:25:27:643 log_debug_IO/(18520:18520): Handshake enviado: KERNEL
+[DEBUG] 20:25:27:649 log_debug_IO/(18520:18520): Se confirma a kernel la creacion de la IO
+[INFO] 20:25:27:661 log_debug_IO/(18520:18520): Handshake enviado: MEMORIA
+[INFO] 20:25:27:700 log_debug_IO/(18520:18525): CONEXION CON MEMORIA OK
+[DEBUG] 20:29:27:179 log_debug_IO/(19183:19183): IP KERNEL: 127.0.0.1
+[DEBUG] 20:29:27:179 log_debug_IO/(19183:19183): PUERTO KERNEL: 8003
+[DEBUG] 20:29:27:179 log_debug_IO/(19183:19183): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:29:27:180 log_debug_IO/(19183:19183): PUERTO MEMORIA: 8002
+[INFO] 20:29:27:194 log_debug_IO/(19183:19183): Handshake enviado: KERNEL
+[DEBUG] 20:29:27:204 log_debug_IO/(19183:19183): Se confirma a kernel la creacion de la IO
+[INFO] 20:29:27:206 log_debug_IO/(19183:19183): Handshake enviado: MEMORIA
+[INFO] 20:29:27:259 log_debug_IO/(19183:19186): CONEXION CON MEMORIA OK
+[DEBUG] 20:33:20:165 log_debug_IO/(20213:20213): IP KERNEL: 127.0.0.1
+[DEBUG] 20:33:20:165 log_debug_IO/(20213:20213): PUERTO KERNEL: 8003
+[DEBUG] 20:33:20:165 log_debug_IO/(20213:20213): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:33:20:166 log_debug_IO/(20213:20213): PUERTO MEMORIA: 8002
+[INFO] 20:33:20:179 log_debug_IO/(20213:20213): Handshake enviado: KERNEL
+[DEBUG] 20:33:20:182 log_debug_IO/(20213:20213): Se confirma a kernel la creacion de la IO
+[INFO] 20:33:20:193 log_debug_IO/(20213:20213): Handshake enviado: MEMORIA
+[INFO] 20:33:20:232 log_debug_IO/(20213:20216): CONEXION CON MEMORIA OK
+[INFO] 20:35:21:754 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:25:465 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:27:720 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:29:200 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:40:250 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:43:672 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:46:064 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:48:904 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:35:51:340 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:05:120 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:11:866 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:18:382 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:31:249 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:32:945 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:35:009 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[INFO] 20:36:36:249 log_debug_IO/(20213:20216): El pedido de escritura a memoria fue exitoso
+[DEBUG] 20:43:46:027 log_debug_IO/(20823:20823): IP KERNEL: 127.0.0.1
+[DEBUG] 20:43:46:027 log_debug_IO/(20823:20823): PUERTO KERNEL: 8003
+[DEBUG] 20:43:46:027 log_debug_IO/(20823:20823): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:43:46:027 log_debug_IO/(20823:20823): PUERTO MEMORIA: 8002
+[INFO] 20:43:46:028 log_debug_IO/(20823:20823): Handshake enviado: KERNEL
+[DEBUG] 20:43:46:028 log_debug_IO/(20823:20823): Se confirma a kernel la creacion de la IO
+[INFO] 20:43:46:028 log_debug_IO/(20823:20823): Handshake enviado: MEMORIA
+[INFO] 20:43:46:028 log_debug_IO/(20823:20827): CONEXION CON MEMORIA OK
+[INFO] 20:45:21:473 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:22:998 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:24:271 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:26:325 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:27:518 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:41:908 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:44:296 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:46:313 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[INFO] 20:45:48:094 log_debug_IO/(20823:20827): El pedido de escritura a memoria fue exitoso
+[DEBUG] 20:58:26:283 log_debug_IO/(22103:22103): IP KERNEL: 127.0.0.1
+[DEBUG] 20:58:26:283 log_debug_IO/(22103:22103): PUERTO KERNEL: 8003
+[DEBUG] 20:58:26:283 log_debug_IO/(22103:22103): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:58:26:283 log_debug_IO/(22103:22103): PUERTO MEMORIA: 8002
+[INFO] 20:58:26:283 log_debug_IO/(22103:22103): Handshake enviado: KERNEL
+[DEBUG] 20:58:26:283 log_debug_IO/(22103:22103): Se confirma a kernel la creacion de la IO
+[INFO] 20:58:26:283 log_debug_IO/(22103:22103): Handshake enviado: MEMORIA
+[INFO] 20:58:26:284 log_debug_IO/(22103:22106): CONEXION CON MEMORIA OK
+[DEBUG] 21:02:20:983 log_debug_IO/(22470:22470): IP KERNEL: 127.0.0.1
+[DEBUG] 21:02:20:983 log_debug_IO/(22470:22470): PUERTO KERNEL: 8003
+[DEBUG] 21:02:20:983 log_debug_IO/(22470:22470): IP MEMORIA: 127.0.0.1
+[DEBUG] 21:02:20:983 log_debug_IO/(22470:22470): PUERTO MEMORIA: 8002
+[INFO] 21:02:20:983 log_debug_IO/(22470:22470): Handshake enviado: KERNEL
+[DEBUG] 21:02:20:983 log_debug_IO/(22470:22470): Se confirma a kernel la creacion de la IO
+[INFO] 21:02:20:983 log_debug_IO/(22470:22470): Handshake enviado: MEMORIA
+[INFO] 21:02:20:983 log_debug_IO/(22470:22473): CONEXION CON MEMORIA OK
+[INFO] 21:09:44:024 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:09:44:871 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:09:45:587 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:09:46:256 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:09:46:760 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:01:989 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:03:162 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:03:765 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:19:179 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:24:570 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:10:26:983 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:11:15:233 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:11:16:226 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:11:17:695 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:11:18:841 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[INFO] 21:11:32:650 log_debug_IO/(22470:22473): El pedido de escritura a memoria fue exitoso
+[DEBUG] 21:13:49:375 log_debug_IO/(24068:24068): IP KERNEL: 127.0.0.1
+[DEBUG] 21:13:49:375 log_debug_IO/(24068:24068): PUERTO KERNEL: 8003
+[DEBUG] 21:13:49:375 log_debug_IO/(24068:24068): IP MEMORIA: 127.0.0.1
+[DEBUG] 21:13:49:375 log_debug_IO/(24068:24068): PUERTO MEMORIA: 8002
+[INFO] 21:13:49:375 log_debug_IO/(24068:24068): Handshake enviado: KERNEL
+[DEBUG] 21:13:49:375 log_debug_IO/(24068:24068): Se confirma a kernel la creacion de la IO
+[INFO] 21:13:49:376 log_debug_IO/(24068:24068): Handshake enviado: MEMORIA
+[INFO] 21:13:49:376 log_debug_IO/(24068:24070): CONEXION CON MEMORIA OK
+[INFO] 21:17:09:808 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:17:11:717 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:17:14:080 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:17:18:945 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:17:20:182 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:17:32:614 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:20:642 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:21:224 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:22:626 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:26:211 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:27:749 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:18:50:941 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:20:55:985 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:21:06:570 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:21:47:881 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:15:498 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:16:458 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:17:219 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:17:913 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:18:642 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:23:37:803 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:04:108 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:04:691 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:06:058 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:09:835 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:10:715 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:25:21:807 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:00:204 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:01:320 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:03:479 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:04:112 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:04:672 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:30:19:081 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:36:59:431 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:00:245 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:01:104 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:01:734 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:02:438 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:19:364 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:20:049 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:21:693 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso
+[INFO] 21:37:24:217 log_debug_IO/(24068:24070): El pedido de escritura a memoria fue exitoso

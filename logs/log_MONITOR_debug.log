@@ -1,0 +1,194 @@
+[DEBUG] 20:19:59:533 log_debug_IO/(17549:17549): IP KERNEL: 127.0.0.1
+[DEBUG] 20:19:59:533 log_debug_IO/(17549:17549): PUERTO KERNEL: 8003
+[DEBUG] 20:19:59:534 log_debug_IO/(17549:17549): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:19:59:535 log_debug_IO/(17549:17549): PUERTO MEMORIA: 8002
+[INFO] 20:19:59:558 log_debug_IO/(17549:17549): Handshake enviado: KERNEL
+[DEBUG] 20:19:59:563 log_debug_IO/(17549:17549): Se confirma a kernel la creacion de la IO
+[INFO] 20:19:59:573 log_debug_IO/(17549:17549): Handshake enviado: MEMORIA
+[INFO] 20:19:59:665 log_debug_IO/(17549:17558): CONEXION CON MEMORIA OK
+[DEBUG] 20:25:28:315 log_debug_IO/(18527:18527): IP KERNEL: 127.0.0.1
+[DEBUG] 20:25:28:316 log_debug_IO/(18527:18527): PUERTO KERNEL: 8003
+[DEBUG] 20:25:28:316 log_debug_IO/(18527:18527): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:25:28:317 log_debug_IO/(18527:18527): PUERTO MEMORIA: 8002
+[INFO] 20:25:28:330 log_debug_IO/(18527:18527): Handshake enviado: KERNEL
+[DEBUG] 20:25:28:334 log_debug_IO/(18527:18527): Se confirma a kernel la creacion de la IO
+[INFO] 20:25:28:335 log_debug_IO/(18527:18527): Handshake enviado: MEMORIA
+[INFO] 20:25:28:380 log_debug_IO/(18527:18528): CONEXION CON MEMORIA OK
+[DEBUG] 20:29:27:899 log_debug_IO/(19188:19188): IP KERNEL: 127.0.0.1
+[DEBUG] 20:29:27:900 log_debug_IO/(19188:19188): PUERTO KERNEL: 8003
+[DEBUG] 20:29:27:900 log_debug_IO/(19188:19188): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:29:27:901 log_debug_IO/(19188:19188): PUERTO MEMORIA: 8002
+[INFO] 20:29:27:914 log_debug_IO/(19188:19188): Handshake enviado: KERNEL
+[DEBUG] 20:29:27:922 log_debug_IO/(19188:19188): Se confirma a kernel la creacion de la IO
+[INFO] 20:29:27:926 log_debug_IO/(19188:19188): Handshake enviado: MEMORIA
+[INFO] 20:29:27:999 log_debug_IO/(19188:19198): CONEXION CON MEMORIA OK
+[DEBUG] 20:33:20:890 log_debug_IO/(20218:20218): IP KERNEL: 127.0.0.1
+[DEBUG] 20:33:20:891 log_debug_IO/(20218:20218): PUERTO KERNEL: 8003
+[DEBUG] 20:33:20:891 log_debug_IO/(20218:20218): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:33:20:891 log_debug_IO/(20218:20218): PUERTO MEMORIA: 8002
+[INFO] 20:33:20:905 log_debug_IO/(20218:20218): Handshake enviado: KERNEL
+[DEBUG] 20:33:20:908 log_debug_IO/(20218:20218): Se confirma a kernel la creacion de la IO
+[INFO] 20:33:20:917 log_debug_IO/(20218:20218): Handshake enviado: MEMORIA
+[INFO] 20:33:20:958 log_debug_IO/(20218:20221): CONEXION CON MEMORIA OK
+[DEBUG] 20:35:22:272 log_debug_IO/(20218:20218): String para imprimir: A
+[DEBUG] 20:35:25:667 log_debug_IO/(20218:20218): String para imprimir: B
+[DEBUG] 20:35:28:330 log_debug_IO/(20218:20218): String para imprimir: C
+[DEBUG] 20:35:29:509 log_debug_IO/(20218:20218): String para imprimir: D
+[DEBUG] 20:35:40:988 log_debug_IO/(20218:20218): String para imprimir: E
+[DEBUG] 20:35:44:026 log_debug_IO/(20218:20218): String para imprimir: F
+[DEBUG] 20:35:46:741 log_debug_IO/(20218:20218): String para imprimir: G
+[DEBUG] 20:35:49:493 log_debug_IO/(20218:20218): String para imprimir: A
+[DEBUG] 20:35:51:954 log_debug_IO/(20218:20218): String para imprimir: B
+[DEBUG] 20:36:05:749 log_debug_IO/(20218:20218): String para imprimir: A
+[DEBUG] 20:36:12:141 log_debug_IO/(20218:20218): String para imprimir: S
+[DEBUG] 20:36:18:688 log_debug_IO/(20218:20218): String para imprimir: D
+[DEBUG] 20:36:31:671 log_debug_IO/(20218:20218): String para imprimir: F
+[DEBUG] 20:36:33:783 log_debug_IO/(20218:20218): String para imprimir: Q
+[DEBUG] 20:36:35:540 log_debug_IO/(20218:20218): String para imprimir: W
+[DEBUG] 20:36:36:472 log_debug_IO/(20218:20218): String para imprimir: E
+[DEBUG] 20:43:49:211 log_debug_IO/(20829:20829): IP KERNEL: 127.0.0.1
+[DEBUG] 20:43:49:211 log_debug_IO/(20829:20829): PUERTO KERNEL: 8003
+[DEBUG] 20:43:49:211 log_debug_IO/(20829:20829): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:43:49:211 log_debug_IO/(20829:20829): PUERTO MEMORIA: 8002
+[INFO] 20:43:49:212 log_debug_IO/(20829:20829): Handshake enviado: KERNEL
+[DEBUG] 20:43:49:212 log_debug_IO/(20829:20829): Se confirma a kernel la creacion de la IO
+[INFO] 20:43:49:212 log_debug_IO/(20829:20829): Handshake enviado: MEMORIA
+[INFO] 20:43:49:212 log_debug_IO/(20829:20832): CONEXION CON MEMORIA OK
+[DEBUG] 20:45:22:088 log_debug_IO/(20829:20829): String para imprimir: A
+[DEBUG] 20:45:23:182 log_debug_IO/(20829:20829): String para imprimir: V
+[DEBUG] 20:45:24:895 log_debug_IO/(20829:20829): String para imprimir: W
+[DEBUG] 20:45:26:760 log_debug_IO/(20829:20829): String para imprimir: F
+[DEBUG] 20:45:27:820 log_debug_IO/(20829:20829): String para imprimir: Q
+[DEBUG] 20:45:42:556 log_debug_IO/(20829:20829): String para imprimir: T
+[DEBUG] 20:45:44:718 log_debug_IO/(20829:20829): String para imprimir: 
+[DEBUG] 20:45:46:852 log_debug_IO/(20829:20829): String para imprimir: f
+[DEBUG] 20:45:48:706 log_debug_IO/(20829:20829): String para imprimir: g
+[DEBUG] 20:50:21:315 log_debug_IO/(20829:20829): String para imprimir: Aborted (core dumped)
+[DEBUG] 20:50:25:699 log_debug_IO/(20829:20829): String para imprimir: Aborted (core dumped)
+[DEBUG] 20:50:28:467 log_debug_IO/(20829:20829): String para imprimir: Aborted (core dumped)
+[DEBUG] 20:50:28:978 log_debug_IO/(20829:20829): String para imprimir: Aborted (core dumped)
+[DEBUG] 20:50:31:081 log_debug_IO/(20829:20829): String para imprimir: Aborted (core dumped)
+[DEBUG] 20:52:47:834 log_debug_IO/(20829:20829): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 20:52:57:720 log_debug_IO/(20829:20829): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 20:53:02:177 log_debug_IO/(20829:20829): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 20:53:05:764 log_debug_IO/(20829:20829): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 20:58:25:508 log_debug_IO/(22097:22097): IP KERNEL: 127.0.0.1
+[DEBUG] 20:58:25:508 log_debug_IO/(22097:22097): PUERTO KERNEL: 8003
+[DEBUG] 20:58:25:508 log_debug_IO/(22097:22097): IP MEMORIA: 127.0.0.1
+[DEBUG] 20:58:25:508 log_debug_IO/(22097:22097): PUERTO MEMORIA: 8002
+[INFO] 20:58:25:508 log_debug_IO/(22097:22097): Handshake enviado: KERNEL
+[DEBUG] 20:58:25:508 log_debug_IO/(22097:22097): Se confirma a kernel la creacion de la IO
+[INFO] 20:58:25:508 log_debug_IO/(22097:22097): Handshake enviado: MEMORIA
+[INFO] 20:58:25:508 log_debug_IO/(22097:22101): CONEXION CON MEMORIA OK
+[DEBUG] 21:02:21:727 log_debug_IO/(22476:22476): IP KERNEL: 127.0.0.1
+[DEBUG] 21:02:21:727 log_debug_IO/(22476:22476): PUERTO KERNEL: 8003
+[DEBUG] 21:02:21:727 log_debug_IO/(22476:22476): IP MEMORIA: 127.0.0.1
+[DEBUG] 21:02:21:727 log_debug_IO/(22476:22476): PUERTO MEMORIA: 8002
+[INFO] 21:02:21:727 log_debug_IO/(22476:22476): Handshake enviado: KERNEL
+[DEBUG] 21:02:21:727 log_debug_IO/(22476:22476): Se confirma a kernel la creacion de la IO
+[INFO] 21:02:21:727 log_debug_IO/(22476:22476): Handshake enviado: MEMORIA
+[INFO] 21:02:21:728 log_debug_IO/(22476:22480): CONEXION CON MEMORIA OK
+[DEBUG] 21:08:02:280 log_debug_IO/(22476:22476): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:08:22:465 log_debug_IO/(22476:22476): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:08:25:685 log_debug_IO/(22476:22476): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:08:26:189 log_debug_IO/(22476:22476): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:08:27:766 log_debug_IO/(22476:22476): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:09:44:526 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:09:45:549 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:09:46:269 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:09:46:776 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:09:47:283 log_debug_IO/(22476:22476): String para imprimir: s
+[DEBUG] 21:10:03:829 log_debug_IO/(22476:22476): String para imprimir: f
+[DEBUG] 21:10:03:931 log_debug_IO/(22476:22476): String para imprimir: g
+[DEBUG] 21:10:19:674 log_debug_IO/(22476:22476): String para imprimir: 
+[DEBUG] 21:10:24:983 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:10:27:532 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:10:52:288 log_debug_IO/(22476:22476): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:10:54:026 log_debug_IO/(22476:22476): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:11:03:717 log_debug_IO/(22476:22476): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:11:06:838 log_debug_IO/(22476:22476): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:11:08:998 log_debug_IO/(22476:22476): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:11:15:452 log_debug_IO/(22476:22476): String para imprimir: a
+[DEBUG] 21:11:16:467 log_debug_IO/(22476:22476): String para imprimir: x
+[DEBUG] 21:11:18:041 log_debug_IO/(22476:22476): String para imprimir: c
+[DEBUG] 21:11:19:286 log_debug_IO/(22476:22476): String para imprimir: v
+[DEBUG] 21:13:50:078 log_debug_IO/(24074:24074): IP KERNEL: 127.0.0.1
+[DEBUG] 21:13:50:078 log_debug_IO/(24074:24074): PUERTO KERNEL: 8003
+[DEBUG] 21:13:50:078 log_debug_IO/(24074:24074): IP MEMORIA: 127.0.0.1
+[DEBUG] 21:13:50:078 log_debug_IO/(24074:24074): PUERTO MEMORIA: 8002
+[INFO] 21:13:50:078 log_debug_IO/(24074:24074): Handshake enviado: KERNEL
+[DEBUG] 21:13:50:080 log_debug_IO/(24074:24074): Se confirma a kernel la creacion de la IO
+[INFO] 21:13:50:080 log_debug_IO/(24074:24074): Handshake enviado: MEMORIA
+[INFO] 21:13:50:081 log_debug_IO/(24074:24076): CONEXION CON MEMORIA OK
+[DEBUG] 21:17:10:199 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:17:12:397 log_debug_IO/(24074:24074): String para imprimir: s
+[DEBUG] 21:17:14:664 log_debug_IO/(24074:24074): String para imprimir: C
+[DEBUG] 21:17:19:489 log_debug_IO/(24074:24074): String para imprimir: P
+[DEBUG] 21:17:20:557 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:17:33:279 log_debug_IO/(24074:24074): String para imprimir: s
+[DEBUG] 21:18:21:313 log_debug_IO/(24074:24074): String para imprimir: a
+[DEBUG] 21:18:21:524 log_debug_IO/(24074:24074): String para imprimir: w
+[DEBUG] 21:18:23:000 log_debug_IO/(24074:24074): String para imprimir: d
+[DEBUG] 21:18:26:517 log_debug_IO/(24074:24074): String para imprimir: g
+[DEBUG] 21:18:28:073 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:18:51:394 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:20:31:648 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:20:33:527 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:20:36:373 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:20:39:169 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:20:42:099 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:20:56:668 log_debug_IO/(24074:24074): String para imprimir: Q
+[DEBUG] 21:21:06:965 log_debug_IO/(24074:24074): String para imprimir: S
+[DEBUG] 21:21:48:526 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:23:16:203 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:23:17:153 log_debug_IO/(24074:24074): String para imprimir: s
+[DEBUG] 21:23:17:896 log_debug_IO/(24074:24074): String para imprimir: d
+[DEBUG] 21:23:18:644 log_debug_IO/(24074:24074): String para imprimir: q
+[DEBUG] 21:23:19:372 log_debug_IO/(24074:24074): String para imprimir: w
+[DEBUG] 21:23:20:639 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:23:24:658 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:23:27:450 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:23:30:049 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:23:32:289 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:23:38:357 log_debug_IO/(24074:24074): String para imprimir: e
+[DEBUG] 21:25:04:826 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:25:05:038 log_debug_IO/(24074:24074): String para imprimir: W
+[DEBUG] 21:25:06:591 log_debug_IO/(24074:24074): String para imprimir: E
+[DEBUG] 21:25:10:164 log_debug_IO/(24074:24074): String para imprimir: D
+[DEBUG] 21:25:11:114 log_debug_IO/(24074:24074): String para imprimir: S
+[DEBUG] 21:25:22:429 log_debug_IO/(24074:24074): String para imprimir: Z
+[DEBUG] 21:26:11:017 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:26:12:626 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:26:15:336 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:26:18:072 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:26:21:164 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:30:01:063 log_debug_IO/(24074:24074): String para imprimir: 
+[DEBUG] 21:30:02:181 log_debug_IO/(24074:24074): String para imprimir: 
+[DEBUG] 21:30:03:776 log_debug_IO/(24074:24074): String para imprimir: a
+[DEBUG] 21:30:04:706 log_debug_IO/(24074:24074): String para imprimir: s
+[DEBUG] 21:30:04:911 log_debug_IO/(24074:24074): String para imprimir: d
+[DEBUG] 21:30:19:816 log_debug_IO/(24074:24074): String para imprimir: q
+[DEBUG] 21:31:38:316 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:31:39:925 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:31:41:625 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:31:43:259 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:31:44:933 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:31:46:550 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:31:48:213 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:31:49:711 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:31:51:094 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:31:51:727 log_debug_IO/(24074:24074): String para imprimir: Segmentation fault (core dumped)
+[DEBUG] 21:36:49:117 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:36:55:451 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:37:00:040 log_debug_IO/(24074:24074): String para imprimir: A
+[DEBUG] 21:37:01:280 log_debug_IO/(24074:24074): String para imprimir: S
+[DEBUG] 21:37:01:488 log_debug_IO/(24074:24074): String para imprimir: Q
+[DEBUG] 21:37:02:333 log_debug_IO/(24074:24074): String para imprimir: W
+[DEBUG] 21:37:03:460 log_debug_IO/(24074:24074): String para imprimir: E
+[DEBUG] 21:37:08:337 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:37:11:075 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:37:15:504 log_debug_IO/(24074:24074): String para imprimir: Aborted (core dumped)
+[DEBUG] 21:37:20:096 log_debug_IO/(24074:24074): String para imprimir: R
+[DEBUG] 21:37:20:202 log_debug_IO/(24074:24074): String para imprimir: F
+[DEBUG] 21:37:22:288 log_debug_IO/(24074:24074): String para imprimir: G
+[DEBUG] 21:37:24:925 log_debug_IO/(24074:24074): String para imprimir: a
